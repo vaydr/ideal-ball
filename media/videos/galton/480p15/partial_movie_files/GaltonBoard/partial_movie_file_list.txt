@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/vayd/GitHub/ideal-ball/media/videos/galton/480p15/partial_movie_files/GaltonBoard/1185818338_3625572786_223132457.mp4'
+file 'file:/Users/vayd/GitHub/ideal-ball/media/videos/galton/480p15/partial_movie_files/GaltonBoard/624642324_1057126861_2192438522.mp4'
+file 'file:/Users/vayd/GitHub/ideal-ball/media/videos/galton/480p15/partial_movie_files/GaltonBoard/624642324_1057126861_1306323252.mp4'
+file 'file:/Users/vayd/GitHub/ideal-ball/media/videos/galton/480p15/partial_movie_files/GaltonBoard/624642324_1057126861_1178254794.mp4'
+file 'file:/Users/vayd/GitHub/ideal-ball/media/videos/galton/480p15/partial_movie_files/GaltonBoard/624642324_1057126861_2016882523.mp4'
+file 'file:/Users/vayd/GitHub/ideal-ball/media/videos/galton/480p15/partial_movie_files/GaltonBoard/624642324_1057126861_32922573.mp4'
+file 'file:/Users/vayd/GitHub/ideal-ball/media/videos/galton/480p15/partial_movie_files/GaltonBoard/624642324_1057126861_1769761445.mp4'
+file 'file:/Users/vayd/GitHub/ideal-ball/media/videos/galton/480p15/partial_movie_files/GaltonBoard/624642324_1057126861_1596224442.mp4'
+file 'file:/Users/vayd/GitHub/ideal-ball/media/videos/galton/480p15/partial_movie_files/GaltonBoard/624642324_1057126861_411506193.mp4'
+file 'file:/Users/vayd/GitHub/ideal-ball/media/videos/galton/480p15/partial_movie_files/GaltonBoard/624642324_1057126861_1829962411.mp4'
+file 'file:/Users/vayd/GitHub/ideal-ball/media/videos/galton/480p15/partial_movie_files/GaltonBoard/624642324_1057126861_1043483913.mp4'
+file 'file:/Users/vayd/GitHub/ideal-ball/media/videos/galton/480p15/partial_movie_files/GaltonBoard/624642324_1704852926_3367276947.mp4'
